@@ -1,0 +1,11 @@
+ is a fun and engaging game where you play as a butterfly catcher
+equipped with a net (your mouse). Your goal is to capture as many butterflies
+as possible within a time limit or according to the selected game mode.
+Perfect for players of all skill levels, the game features three distinct modes
+and three speeds to match your preferences:
+: Start with 15 seconds on the clock. Each capture adds a bit of extra time, but be careful—it's game over when the timer hits zero! A fast-paced mode for players seeking intense challenges.
+
+You can pause the game at any time using the button at the top right of the
+screen. Are you ready to showcase your agility and catch those fluttering
+butterflies?
+\n
