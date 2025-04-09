@@ -25,7 +25,8 @@ static void sprite_hitbox_sec(project_t *hunter, sprite_t *sprite,
         hunter->time_gain -= 0.04;
     }
     sfSprite_setScale(sprite->sprite, (sfVector2f){nb, nb});
-    sfSprite_setColor(sprite->sprite, (sfColor){255, 255, 255, 255});
+    sfSprite_setColor(sprite->sprite, (sfColor){rand() % 255, rand() % 255,
+        rand() % 255, 255});
 }
 
 static int sprite_hitbox(project_t *hunter, sprite_t *sprite,

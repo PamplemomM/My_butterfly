@@ -11,3 +11,5 @@ Dirty blebleble :1116:12:8
 The Pro Player :994:11:10
 The Player :64:01:3
 Dirty Cobblestone :43:01:5
+Stupid Idiot :1440:16:16
+Stupid Idiot :971:11:12
