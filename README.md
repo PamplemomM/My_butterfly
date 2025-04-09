@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-**My Butterfly** is an engaging game where you must catch butterflies within a limited time using your mouse, which represents a net. The game offers several modes and difficulty levels, providing a simple and intuitive experience suitable for everyone.
+**My Butterfly** is an engaging game, developed in C using the CSFML library, where you must catch butterflies within a limited time using your mouse, which represents a net. The game offers several modes and difficulty levels, providing a simple and intuitive experience suitable for everyone.
 
 ## **Game Modes**
 
